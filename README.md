@@ -1,3 +1,4 @@
+[![UI Preview](preview.png)](https://www.figma.com/proto/5zBNMJrrv1Tdji5zIdQOyj/moviee)
 # Movie App UI Prototype
 
 A mobile app UI design created in Figma, focusing on layout, visual design, and interaction flow.
